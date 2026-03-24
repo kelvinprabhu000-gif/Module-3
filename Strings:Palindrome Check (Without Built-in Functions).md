@@ -15,7 +15,7 @@ To write a Python program to check whether the string `"google"` is a **palindro
 ```
 s = "google"
 
-]rev = s[::-1]
+rev = s[::-1]
 
 if s == rev:
     print("Palindrome")
