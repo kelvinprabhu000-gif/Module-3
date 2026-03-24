@@ -10,7 +10,7 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 4. Print the results.
 
 ## 🧾 Program
-```
+```py
 x = ('a', 'b', 'n', 5, 8, 10)
 
 print("'n' exists:", 'n' in x)
