@@ -12,7 +12,7 @@ To write a Python program to check whether the string `"google"` is a **palindro
 4. Execute the program.
 
 ## 🧾 Program
-```
+```py
 s = "google"
 
 rev = s[::-1]
