@@ -14,10 +14,9 @@ To write a Python program that filters out and returns all elements from a list 
 5. Print the final filtered list.
 
 ## 🧾 Program
-```
+```py
 import re
 
-# Define list
 items = ['goal', 'new', 'user', 'sit', 'eat', 'dinner']
 l1 = []
 
