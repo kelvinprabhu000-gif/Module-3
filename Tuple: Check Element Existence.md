@@ -12,7 +12,6 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 ## 🧾 Program
 ```py
 x = ('a', 'b', 'n', 5, 8, 10)
-
 print("'n' exists:", 'n' in x)
 print("8 exists:", 8 in x)
 ```
